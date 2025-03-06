@@ -1,0 +1,22 @@
+# Ignorar pastas de compilação e binários
+out/
+bin/
+*.class
+
+# Ignorar arquivos de IDE/Editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Ignorar logs e temp files
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
